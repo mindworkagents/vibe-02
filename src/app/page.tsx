@@ -17,7 +17,7 @@ const page = () => {
       <figure className='md:flex justify-center items-center bg-slate-500 rounded-xl p-8 md:p-1 dark:bg-slate-800'>
       </figure>
       <figure className='md:flex flex-col justify-start bg-green-100 rounded-xl p-8 md:p-1 dark:bg-green-800'>
-        <header className="text-left text-4xl"> Message: </header>
+      <header className="text-left text-4xl"> Message: </header>
         <blockquote>
           <p className="text-left ml-38 text-2xl"> Keep Learning, Keep Growing. The journey of coding is endless and full of opportunities.
             Everyday is a new chance to create something amazing. Embrace the challenges, celebrate the victories, and never stop coding!
@@ -32,7 +32,7 @@ const page = () => {
             Waqas Awan 
             </div> 
             <div className="text-dark ml-255 dark:text-sky-400">
-              AI Automation, Developer, PAIB,
+              AI Automation, Staff Developer, PAIB,
             </div>
             </figcaption>
         </blockquote>
